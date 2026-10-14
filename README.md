@@ -4,7 +4,7 @@ Aplicación web para administrar una Estrella de la Muerte ficticia. Tiene dos m
 
 Proyecto en equipo para el laboratorio de Programación Orientada a Objetos (Ingeniería en Computación, UAM Azcapotzalco). Hecho con Java, JSP y MariaDB.
 
-![Vista general de la aplicación](docs/screenshots/overview.png) <!-- TODO: agregar captura -->
+![Vista general de la aplicación](docs/screenshots/menu.png) <!-- TODO: agregar captura -->
 
 ## Funcionalidades
 
